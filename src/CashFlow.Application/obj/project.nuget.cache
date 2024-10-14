@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U48NJ24XuGHoLeqpY3V1JUpNf7lqO7rl8YhW3xHv3W9Phusi/3wAziuffDpH2JJC7G7vf36elSkrGZ6/N0/Yaw==",
+  "dgSpecHash": "/Jl7XcgQvIerb6fcn/udIrEis71KdfdSobGqmO6U2CUzWiuQ+TcQYCjUNV9a2N8HGi8kw2nEEXx/c9Nxu8yeMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
   "logs": []
 }

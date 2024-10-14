@@ -1,5 +1,4 @@
-﻿using CashFlow.Communication.Enums;
-using CashFlow.Communication.Requests;
+﻿using CashFlow.Communication.Requests;
 using CashFlow.Communication.Responses;
 
 namespace CashFlow.Application.UseCases.Expenses.Register;
@@ -7,7 +6,7 @@ namespace CashFlow.Application.UseCases.Expenses.Register;
 public class RegisterExpenseUseCase
 {
     public ResponseRegisterExpenseJson Execute(RequestRegisterExpenseJson request)
-    {
+    { 
         //Fazer Validações
         Validate(request);
 
@@ -16,28 +15,16 @@ public class RegisterExpenseUseCase
 
     private void Validate(RequestRegisterExpenseJson request)
     {
-        var titleIsEmpty = string.IsNullOrWhiteSpace(request.Title);
-        if (titleIsEmpty)
-        {
-            throw new ArgumentException("The Title is required.");
-        }
+        var validator = new RegisterExpenseValidator();
 
-        if (request.Amount <= 0)
-        {
-            throw new ArgumentException("The amount must be greater than zero.");
-        }
+        var result = validator.Validate(request);
 
-        var result = DateTime.Compare(request.Date, DateTime.UtcNow);
 
-        if (result > 0)
+        if (result.IsValid == false)
         {
-            throw new ArgumentException("Expenses cannot be for the fuyure.");
-        }
+            var errorMessages = result.Errors.Select(f => f.ErrorMessage).ToList();
 
-        var paymentTypeISValid = Enum.IsDefined(typeof(PaymentType), request.PaymentType);
-        if (paymentTypeISValid == false)
-        {
-            throw new ArgumentException("Payment Type is not valid.");
+            throw new ArgumentException();
         }
     }
 }

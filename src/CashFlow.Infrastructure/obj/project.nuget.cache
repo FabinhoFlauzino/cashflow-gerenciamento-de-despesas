@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ZqlMz6yx6tDdoRMEbPTf0u23C2ptPoxuJdr1Phj884rvMxwzfEOsPZwLcUnquW07Fnkde4YtrSv/1Z1tiCoig==",
+  "dgSpecHash": "429t7CVRfcIwOSFf8zX2vgkoE31UWsfSudd5ZJLI194pyFws1qy40vAqtp48meNCDEqTLNvJWns2PcXo13xGyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

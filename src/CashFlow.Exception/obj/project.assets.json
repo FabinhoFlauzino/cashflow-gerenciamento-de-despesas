@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
       "projectName": "CashFlow.Exception",
-      "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+      "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Exception\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Exception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
