@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ejTKxVuTPar7qLwrG0m5lsAIYDayXdIWAuk2CegTX8Vr/RbtHDARdkPBnJUV2a8EUlLnVT+gyogGAWWXf2OpdQ==",
+  "dgSpecHash": "bHwWzuGGIml2A0nGxehhNvso7dotJYl7q4Ma4o8ReigkxBosnRLPTlNQDsbaFCWhxfTVfkUFNO2w6h+clu64Sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fabio\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+    "C:\\Users\\fabio\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512"
   ],
   "logs": []
 }

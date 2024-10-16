@@ -4,7 +4,7 @@ using CashFlow.Exception.ExceptionsBase;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace CashFlow.API.Filters;
+namespace CashFlow.Api.Filters;
 
 public class ExceptionFilter : IExceptionFilter
 {
@@ -16,13 +16,13 @@ public class ExceptionFilter : IExceptionFilter
         }
         else
         {
-            ThrowUnknowError(context);
+            ThrowUnkowError(context);
         }
     }
 
     private void HandleProjectException(ExceptionContext context)
     {
-        if (context.Exception is ErrorOnValidationException)
+        if(context.Exception is ErrorOnValidationException)
         {
             var ex = (ErrorOnValidationException)context.Exception;
 
@@ -39,9 +39,10 @@ public class ExceptionFilter : IExceptionFilter
             context.Result = new BadRequestObjectResult(errorResponse);
         }
     }
-    private void ThrowUnknowError(ExceptionContext context)
+
+    private void ThrowUnkowError(ExceptionContext context)
     {
-        var errorResponse = new ResponseErrorJson(ResourceErrorMessages.UNKNOWB_ERROR);
+        var errorResponse = new ResponseErrorJson(ResourceErrorMessages.UNKNOWN_ERROR);
 
         context.HttpContext.Response.StatusCode = StatusCodes.Status500InternalServerError;
         context.Result = new ObjectResult(errorResponse);

@@ -101,7 +101,7 @@
           "dependencies": {
             "Bogus": {
               "target": "Package",
-              "version": "[35.6.1, )"
+              "version": "[35.5.0, )"
             }
           },
           "imports": [

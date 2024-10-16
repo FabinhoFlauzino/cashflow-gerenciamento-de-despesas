@@ -61,16 +61,16 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Amount must be greater than zero.
+        ///   Looks up a localized string similar to The amount must be greater than zero.
         /// </summary>
-        public static string AMOUNT_MUSTE_BE_GREATER_THAN_ZERO {
+        public static string AMOUNT_MUST_BE_GREATER_THAN_ZERO {
             get {
-                return ResourceManager.GetString("AMOUNT_MUSTE_BE_GREATER_THAN_ZERO", resourceCulture);
+                return ResourceManager.GetString("AMOUNT_MUST_BE_GREATER_THAN_ZERO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expenses cannot be for the fuyure.
+        ///   Looks up a localized string similar to Expenses cannot be for the future.
         /// </summary>
         public static string EXPENSES_CANNOT_FOR_THE_FUTURE {
             get {
@@ -79,7 +79,7 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Payment Type is not valid.
+        ///   Looks up a localized string similar to Payment Type is not valid..
         /// </summary>
         public static string PAYMENT_TYPE_INVALID {
             get {
@@ -88,7 +88,7 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The title is required.
+        ///   Looks up a localized string similar to The title is required..
         /// </summary>
         public static string TITLE_REQUIRED {
             get {
@@ -99,9 +99,9 @@ namespace CashFlow.Exception {
         /// <summary>
         ///   Looks up a localized string similar to Unknown error.
         /// </summary>
-        public static string UNKNOWB_ERROR {
+        public static string UNKNOWN_ERROR {
             get {
-                return ResourceManager.GetString("UNKNOWB_ERROR", resourceCulture);
+                return ResourceManager.GetString("UNKNOWN_ERROR", resourceCulture);
             }
         }
     }

@@ -3,7 +3,6 @@ using CashFlow.Communication.Enums;
 using CashFlow.Communication.Requests;
 
 namespace CommonTestUtilities.Requests;
-
 public class RequestRegisterExpenseJsonBuilder
 {
     public static RequestRegisterExpenseJson Build()

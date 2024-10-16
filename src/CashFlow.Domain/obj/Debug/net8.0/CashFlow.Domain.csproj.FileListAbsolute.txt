@@ -1,29 +1,14 @@
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
-C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
-<<<<<<< HEAD
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
-C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
-=======
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\fabio\Downloads\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\CashFlow-ccd5f901ed5ff87137dbe09f75b6b2bd47c883c4\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
@@ -36,4 +21,3 @@ C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
