@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+h2lmm8EqcW5pIUs00q7rHJDW8CDOHt5oQCOWVxiMnSoAYxfErKy3QTaUFZy4xqPlXxpCnjvHXjNx/sWKUTQHQ==",
+  "dgSpecHash": "bj/wYysbYhgjm4WDLRtowmHzYKHVBq7fGOHyP2LeoSwY0gNzxwAG0vp16Fuk6/Kyv6FUqN85oNSeDSwrC/U5rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.API\\CashFlow.API.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.API\\CashFlow.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

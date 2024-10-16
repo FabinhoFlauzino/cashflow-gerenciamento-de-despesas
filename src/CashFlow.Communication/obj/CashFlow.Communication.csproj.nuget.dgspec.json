@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {}
+    "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
