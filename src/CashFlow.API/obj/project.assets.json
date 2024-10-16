@@ -2,7 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
-<<<<<<< HEAD
+      "FluentValidation/11.10.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/8.0.10": {
         "type": "package",
         "dependencies": {
@@ -13,17 +25,10 @@
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
-=======
-      "FluentValidation/11.10.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/FluentValidation.dll": {
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
             "related": ".xml"
           }
         },
         "runtime": {
-<<<<<<< HEAD
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
             "related": ".xml"
           }
@@ -67,9 +72,6 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
-=======
-          "lib/net8.0/FluentValidation.dll": {
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
             "related": ".xml"
           }
         }
@@ -85,7 +87,6 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
-<<<<<<< HEAD
       "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -258,10 +259,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.OpenApi/1.2.3": {
-=======
       "Microsoft.OpenApi/1.6.14": {
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -274,7 +272,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "MySqlConnector/2.3.5": {
         "type": "package",
         "dependencies": {
@@ -308,10 +305,7 @@
           }
         }
       },
-      "Swashbuckle.AspNetCore/6.4.0": {
-=======
       "Swashbuckle.AspNetCore/6.8.1": {
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -381,6 +375,7 @@
           "CashFlow.Communication": "1.0.0",
           "CashFlow.Domain": "1.0.0",
           "CashFlow.Exception": "1.0.0",
+          "CashFlow.Infrastructure": "1.0.0",
           "FluentValidation": "11.10.0"
         },
         "compile": {
@@ -438,7 +433,31 @@
     }
   },
   "libraries": {
-<<<<<<< HEAD
+    "FluentValidation/11.10.0": {
+      "sha512": "qsJGSJDdZ8qiG+lVJ70PZfJHcEdq8UQZ/tZDXoj78/iHKG6lVKtMJsD11zyyv/IPc7rwqGqnFoFLTNzpo3IPYg==",
+      "type": "package",
+      "path": "fluentvalidation/11.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.10.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/8.0.10": {
       "sha512": "PPkQdIqfR1nU3n6YgGGDk8G+eaYbaAKM1AzIQtlPNTKf10Osg3N9T+iK9AlnSA/ujsK00flPpFHVfJrbuBFS1A==",
       "type": "package",
@@ -497,31 +516,6 @@
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
         "microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
-=======
-    "FluentValidation/11.10.0": {
-      "sha512": "qsJGSJDdZ8qiG+lVJ70PZfJHcEdq8UQZ/tZDXoj78/iHKG6lVKtMJsD11zyyv/IPc7rwqGqnFoFLTNzpo3IPYg==",
-      "type": "package",
-      "path": "fluentvalidation/11.10.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "fluent-validation-icon.png",
-        "fluentvalidation.11.10.0.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/net6.0/FluentValidation.dll",
-        "lib/net6.0/FluentValidation.xml",
-        "lib/net7.0/FluentValidation.dll",
-        "lib/net7.0/FluentValidation.xml",
-        "lib/net8.0/FluentValidation.dll",
-        "lib/net8.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml",
-        "lib/netstandard2.1/FluentValidation.dll",
-        "lib/netstandard2.1/FluentValidation.xml"
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
@@ -755,7 +749,6 @@
         "tools/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll"
       ]
     },
-<<<<<<< HEAD
     "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
       "sha512": "3KuSxeHoNYdxVYfg2IRZCThcrlJ1XJqIXkAWikCsbm5C/bCjv7G0WoKDyuR98Q+T607QT2Zl5GsbGRkENcV2yQ==",
       "type": "package",
@@ -1092,12 +1085,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.OpenApi/1.2.3": {
-      "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
-=======
     "Microsoft.OpenApi/1.6.14": {
       "sha512": "tTaBT8qjk3xINfESyOPE2rIellPvB7qpVqiWiyA/lACVvz+xOGiXhFUfohcx82NLbi5avzLW0lx+s6oAqQijfw==",
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
       "type": "package",
       "path": "microsoft.openapi/1.6.14",
       "files": [
@@ -1111,7 +1100,6 @@
         "microsoft.openapi.nuspec"
       ]
     },
-<<<<<<< HEAD
     "MySqlConnector/2.3.5": {
       "sha512": "AmEfUPkFl+Ev6jJ8Dhns3CYHBfD12RHzGYWuLt6DfG6/af6YvOMyPz74ZPPjBYQGRJkumD2Z48Kqm8s5DJuhLA==",
       "type": "package",
@@ -1156,12 +1144,8 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore/6.4.0": {
-      "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
-=======
     "Swashbuckle.AspNetCore/6.8.1": {
       "sha512": "JN6ccH37QKtNOwBrvSxc+jBYIB+cw6RlZie2IKoJhjjf6HzBH+2kPJCpxmJ5EHIqmxvq6aQG+0A8XklGx9rAxA==",
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
       "type": "package",
       "path": "swashbuckle.aspnetcore/6.8.1",
       "files": [
@@ -1298,32 +1282,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabinho\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.API\\CashFlow.API.csproj",
-      "projectName": "CashFlow.API",
-      "projectPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.API\\CashFlow.API.csproj",
-      "packagesPath": "C:\\Users\\Fabinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.API\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.API\\CashFlow.API.csproj",
       "projectName": "CashFlow.API",
       "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.API\\CashFlow.API.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.API\\obj\\",
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Fabinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1331,26 +1302,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-              "projectPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
-            },
-            "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-              "projectPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
-            },
-            "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-              "projectPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
-            },
-            "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
-=======
             "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
               "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Application\\CashFlow.Application.csproj"
             },
@@ -1362,7 +1319,6 @@
             },
             "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
->>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
             }
           }
         }
@@ -1401,7 +1357,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

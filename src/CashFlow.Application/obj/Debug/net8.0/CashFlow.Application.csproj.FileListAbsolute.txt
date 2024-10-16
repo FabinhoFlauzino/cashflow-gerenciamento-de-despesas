@@ -62,3 +62,5 @@ C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
 C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 >>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastructure.pdb

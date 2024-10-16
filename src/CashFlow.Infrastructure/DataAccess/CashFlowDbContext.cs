@@ -17,7 +17,7 @@ public class CashFlowDbContext : DbContext
         var connectionString = "Server=localhost;Database=cashflowdb;Uid=root;Pwd=root";
 
         //versão do mySql
-        var version = new Version(8, 0, 28);
+        var version = new Version(8, 0, 29);
 
         //instanciando uma nova versão
         var serverVersion = new MySqlServerVersion(version);
