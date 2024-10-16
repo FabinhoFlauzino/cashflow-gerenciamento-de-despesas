@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jNQj56TnV81yJ1YbqBcIVny2Bn8n+Wuhkyk4l7hiEvgVyRUVP7wQbeyKyj7KTabWKu5YSaQXmMjVFl5AIv/fSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
@@ -20,5 +21,11 @@
     "C:\\Users\\Fabinho\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
     "C:\\Users\\Fabinho\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "429t7CVRfcIwOSFf8zX2vgkoE31UWsfSudd5ZJLI194pyFws1qy40vAqtp48meNCDEqTLNvJWns2PcXo13xGyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
   "logs": []
 }

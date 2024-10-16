@@ -10,6 +10,7 @@ C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+<<<<<<< HEAD
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
@@ -22,3 +23,22 @@ C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFl
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+=======
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.sourcelink.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d

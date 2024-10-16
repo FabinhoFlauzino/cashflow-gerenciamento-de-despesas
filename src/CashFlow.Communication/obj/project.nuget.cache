@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rpVy/zdazY+5vIsiVz+HRDrz1yvwxfvWwM4WoCC3jzVS4brpOiP1bOv22U42fUS9QizbMlDTousdi1su16EEOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+=======
+  "dgSpecHash": "KIwjMmNsPAhszOtmxG0qPn6PzF4tJw7StOeX3sg2Skd/01QazDcqKLDwp9+GhNlYHkb1ymZ4pQFDaSKDiRjXKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
   "expectedPackageFiles": [],
   "logs": []
 }

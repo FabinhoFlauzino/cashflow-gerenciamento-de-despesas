@@ -14,6 +14,7 @@ C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Infrastructure\obj\Debug\n
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+<<<<<<< HEAD
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
@@ -30,3 +31,21 @@ C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\C
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+=======
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.sourcelink.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CopyComplete
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d

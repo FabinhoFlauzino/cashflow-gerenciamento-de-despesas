@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6gir3+m536taPyUuFDIokLYui1F1LeARIT+WZ3SeR5aDwpFQpeQq1sCFFd1fBo99VRR3j7HjBkZsjJTIrkDydw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fabinho\\Desktop\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+=======
+  "dgSpecHash": "pkSlbpTjPLkVTvfJa5Gjqpje8k3As/HRlwJa9ohrREKUg1PsnXhGSyRueGbNwzeVYxp6F3vhUbaz+C8GnjyUkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Projetos\\cashflow-gerenciamento-de-despesas\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
   "expectedPackageFiles": [],
   "logs": []
 }

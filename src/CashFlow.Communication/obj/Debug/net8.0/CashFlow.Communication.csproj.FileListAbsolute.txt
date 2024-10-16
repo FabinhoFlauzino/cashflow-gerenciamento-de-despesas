@@ -10,6 +10,7 @@ C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Communication\obj\Debug\ne
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
 C:\Users\fabio\Desktop\Projetos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+<<<<<<< HEAD
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
@@ -22,3 +23,17 @@ C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\Ca
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
 C:\Users\Fabinho\Desktop\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+=======
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d

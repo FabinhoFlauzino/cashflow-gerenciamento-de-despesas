@@ -1,0 +1,16 @@
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.sourcelink.json
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CopyComplete
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+C:\Users\fabio\Desktop\Projetos\cashflow-gerenciamento-de-despesas\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll

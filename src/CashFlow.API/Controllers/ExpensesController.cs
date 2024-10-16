@@ -12,11 +12,9 @@ public class ExpensesController : ControllerBase
     [HttpPost]
     public IActionResult Register([FromBody] RequestRegisterExpenseJson request)
     {
-        try
-        {
-            var useCase = new RegisterExpenseUseCase();
-            var response = useCase.Execute(request);
+        var useCase = new RegisterExpenseUseCase();
 
+<<<<<<< HEAD
             return Created(string.Empty, response);
         } 
         catch (ArgumentException ex) 
@@ -31,5 +29,10 @@ public class ExpensesController : ControllerBase
             
             return StatusCode(StatusCodes.Status500InternalServerError, errorResponse);
         }
+=======
+        var response = useCase.Execute(request);
+
+        return Created(string.Empty, response);
+>>>>>>> 3c4592dcec1325eb6bfb4dd71055d8d75383691d
     }
 }
